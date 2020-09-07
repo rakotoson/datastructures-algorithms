@@ -1,0 +1,9 @@
+# Default ignored files
+.idea/
+/shelf/
+/workspace.xml
+/codeStyles
+./misc.xml
+./modules.xml
+./uiDesigner.xml
+./vcs.xml
