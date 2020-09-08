@@ -17,7 +17,7 @@ public class TestCreditCard {
         }
 
         for (CreditCard card: wallet) {
-            CreditCard.printSummary(card);
+            card.printSummary(card);
             while (card.getBalance()>200.0) {
                 card.makePayment(200);
                 System.out.println("New balance: " + card.getBalance());

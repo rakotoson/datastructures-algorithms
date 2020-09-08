@@ -30,7 +30,7 @@ public class R1 {
      */
     private static void inputAllBaseType(Object obj) {
         PrintWriter printWriter = new PrintWriter(System.out);
-        printWriter.println(obj);
+        printWriter.println("Number: " + obj);
         printWriter.close();
     }
 }

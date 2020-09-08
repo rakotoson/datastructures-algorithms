@@ -22,4 +22,11 @@ package com.rakotoson.dsalgo.chapter1.exercices.creativity;
  *
  */
 public class C5 {
+    public static void main(String[] args) {
+
+    }
+
+    private static int norm(int p, int v) {
+        return 0;
+    }
 }
