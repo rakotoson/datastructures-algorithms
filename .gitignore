@@ -1,7 +1,8 @@
 # Default ignored files
 .idea/
+/out
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 /codeStyles
 ./misc.xml
 ./modules.xml
