@@ -1,9 +1,9 @@
 package com.rakotoson.dsalgo.chapter2;
 
-import com.rakotoson.dsalgo.chapter2.inheritance.ArithmeticProgression;
-import com.rakotoson.dsalgo.chapter2.inheritance.FibonacciProgression;
-import com.rakotoson.dsalgo.chapter2.inheritance.GeometricProgression;
-import com.rakotoson.dsalgo.chapter2.inheritance.Progression;
+import com.rakotoson.dsalgo.chapter2.inheritances.ArithmeticProgression;
+import com.rakotoson.dsalgo.chapter2.inheritances.FibonacciProgression;
+import com.rakotoson.dsalgo.chapter2.inheritances.GeometricProgression;
+import com.rakotoson.dsalgo.chapter2.inheritances.Progression;
 
 public class TestProgression {
     public static void main(String[] args) {

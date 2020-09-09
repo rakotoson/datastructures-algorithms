@@ -1,4 +1,4 @@
-package com.rakotoson.dsalgo.chapter2.inheritance;
+package com.rakotoson.dsalgo.chapter2.inheritances;
 
 /**
  * Class for the Fibonacci progression
